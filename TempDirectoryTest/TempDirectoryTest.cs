@@ -1,5 +1,5 @@
 ﻿using System.IO;
-using CityStats;
+using StatisticalAnalysis;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TempDirectoryTest

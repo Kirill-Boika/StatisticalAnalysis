@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace CityStats
+namespace StatisticalAnalysis
 {
     /// <summary>
     /// Class for getting the list of files in directory.

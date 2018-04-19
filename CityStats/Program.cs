@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CityStats
+namespace StatisticalAnalysis
 {
     class Program
     {

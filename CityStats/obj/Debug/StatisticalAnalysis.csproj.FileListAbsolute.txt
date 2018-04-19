@@ -1,0 +1,14 @@
+D:\LocalCityStats\StatisticalAnalysis\CityStats\bin\Debug\StatisticalAnalysis.exe.config
+D:\LocalCityStats\StatisticalAnalysis\CityStats\bin\Debug\app.config
+D:\LocalCityStats\StatisticalAnalysis\CityStats\bin\Debug\StatisticalAnalysis.exe
+D:\LocalCityStats\StatisticalAnalysis\CityStats\bin\Debug\StatisticalAnalysis.pdb
+D:\LocalCityStats\StatisticalAnalysis\CityStats\obj\Debug\StatisticalAnalysis.csprojResolveAssemblyReference.cache
+D:\LocalCityStats\StatisticalAnalysis\CityStats\obj\Debug\StatisticalAnalysis.exe
+D:\LocalCityStats\StatisticalAnalysis\CityStats\obj\Debug\StatisticalAnalysis.pdb
+D:\LocalCityStats\CityStats\CityStats\bin\Debug\app.config
+D:\LocalCityStats\CityStats\CityStats\bin\Debug\StatisticalAnalysis.exe.config
+D:\LocalCityStats\CityStats\CityStats\bin\Debug\StatisticalAnalysis.exe
+D:\LocalCityStats\CityStats\CityStats\bin\Debug\StatisticalAnalysis.pdb
+D:\LocalCityStats\CityStats\CityStats\obj\Debug\StatisticalAnalysis.csprojResolveAssemblyReference.cache
+D:\LocalCityStats\CityStats\CityStats\obj\Debug\StatisticalAnalysis.exe
+D:\LocalCityStats\CityStats\CityStats\obj\Debug\StatisticalAnalysis.pdb

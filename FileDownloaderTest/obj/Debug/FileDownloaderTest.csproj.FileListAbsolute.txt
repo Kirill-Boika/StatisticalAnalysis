@@ -1,0 +1,9 @@
+D:\LocalCityStats\CityStats\FileDownloaderTest\bin\Debug\app.config
+D:\LocalCityStats\CityStats\FileDownloaderTest\bin\Debug\FileDownloaderTest.dll
+D:\LocalCityStats\CityStats\FileDownloaderTest\bin\Debug\FileDownloaderTest.pdb
+D:\LocalCityStats\CityStats\FileDownloaderTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\LocalCityStats\CityStats\FileDownloaderTest\bin\Debug\StatisticalAnalysis.exe
+D:\LocalCityStats\CityStats\FileDownloaderTest\bin\Debug\StatisticalAnalysis.pdb
+D:\LocalCityStats\CityStats\FileDownloaderTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\LocalCityStats\CityStats\FileDownloaderTest\obj\Debug\FileDownloaderTest.dll
+D:\LocalCityStats\CityStats\FileDownloaderTest\obj\Debug\FileDownloaderTest.pdb

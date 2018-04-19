@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Collections.Generic;
 
-namespace CityStats
+namespace StatisticalAnalysis
 {
     public class Extensions
     {

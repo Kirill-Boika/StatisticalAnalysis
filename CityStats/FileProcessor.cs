@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Collections.Concurrent;
 
-namespace CityStats
+namespace StatisticalAnalysis
 {
     /// <summary>
     /// Class for processing files with statistical information.

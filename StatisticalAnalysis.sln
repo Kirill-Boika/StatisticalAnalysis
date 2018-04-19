@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityStats", "CityStats\CityStats.csproj", "{F8899F53-586D-4692-B9E5-F13D4D3EDE93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticalAnalysis", "CityStats\StatisticalAnalysis.csproj", "{F8899F53-586D-4692-B9E5-F13D4D3EDE93}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdParserTest", "CmdParserTest\CmdParserTest.csproj", "{D36FB2D2-B972-4B11-B8E4-CDD748436747}"
 EndProject

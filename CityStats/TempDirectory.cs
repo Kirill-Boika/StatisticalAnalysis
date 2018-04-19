@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace CityStats
+namespace StatisticalAnalysis
 {
     /// <summary>
     /// RAII class representing a new directory.

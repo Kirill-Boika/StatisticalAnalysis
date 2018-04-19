@@ -3,7 +3,7 @@ using System.IO;
 using System.Net;
 using System.Collections.Generic;
 
-namespace CityStats
+namespace StatisticalAnalysis
 {
     /// <summary>
     /// Class for downloading of remote files.

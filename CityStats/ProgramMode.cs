@@ -1,4 +1,4 @@
-﻿namespace CityStats
+﻿namespace StatisticalAnalysis
 {
    public enum ProgramMode
     {

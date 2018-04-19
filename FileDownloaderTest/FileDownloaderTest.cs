@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-using CityStats;
+using StatisticalAnalysis;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
