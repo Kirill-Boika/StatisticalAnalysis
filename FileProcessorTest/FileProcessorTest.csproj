@@ -54,12 +54,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CityStats\StatisticalAnalysis.csproj">
+    <ProjectReference Include="..\StatisticalAnalysis\StatisticalAnalysis.csproj">
       <Project>{f8899f53-586d-4692-b9e5-f13d4d3ede93}</Project>
       <Name>StatisticalAnalysis</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Content Include="test-data\1.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

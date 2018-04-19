@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D36FB2D2-B972-4B11-B8E4-CDD748436747}</ProjectGuid>
+    <ProjectGuid>{B8A8A856-3E36-4E88-B0C1-12CB53FF2DDB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CmdParserTest</RootNamespace>
-    <AssemblyName>CmdParserTest</AssemblyName>
+    <RootNamespace>StatisticalAnalysisTest</RootNamespace>
+    <AssemblyName>StatisticalAnalysisTest</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -21,7 +21,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>.\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -45,12 +45,18 @@
     </When>
     <Otherwise>
       <ItemGroup>
-        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
       </ItemGroup>
     </Otherwise>
   </Choose>
   <ItemGroup>
     <Compile Include="CmdParserTest.cs" />
+    <Compile Include="DirParserTest.cs" />
+    <Compile Include="FileDownloaderTest.cs" />
+    <Compile Include="FileProcessorTest.cs" />
+    <Compile Include="TempDirectoryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -60,10 +66,13 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="test-dir\remoteFiles.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="test-data\1.txt" />
+    <Content Include="test-data\2.txt" />
+    <Content Include="test-dirParser\test-file.txt" />
+    <Content Include="test-dirParser\test-sub-dir\test-sub-dir-file.txt" />
+    <Content Include="test-dir\remoteFiles.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

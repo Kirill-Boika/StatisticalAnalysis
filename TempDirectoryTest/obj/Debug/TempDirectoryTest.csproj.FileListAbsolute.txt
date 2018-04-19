@@ -1,9 +1,0 @@
-D:\LocalCityStats\CityStats\TempDirectoryTest\bin\Debug\app.config
-D:\LocalCityStats\CityStats\TempDirectoryTest\bin\Debug\TempDirectoryTest.dll
-D:\LocalCityStats\CityStats\TempDirectoryTest\bin\Debug\TempDirectoryTest.pdb
-D:\LocalCityStats\CityStats\TempDirectoryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\LocalCityStats\CityStats\TempDirectoryTest\bin\Debug\StatisticalAnalysis.exe
-D:\LocalCityStats\CityStats\TempDirectoryTest\bin\Debug\StatisticalAnalysis.pdb
-D:\LocalCityStats\CityStats\TempDirectoryTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-D:\LocalCityStats\CityStats\TempDirectoryTest\obj\Debug\TempDirectoryTest.dll
-D:\LocalCityStats\CityStats\TempDirectoryTest\obj\Debug\TempDirectoryTest.pdb

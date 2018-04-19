@@ -54,18 +54,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CityStats\StatisticalAnalysis.csproj">
-      <Project>{f8899f53-586d-4692-b9e5-f13d4d3ede93}</Project>
-      <Name>StatisticalAnalysis</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="test-dir\test-file.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="test-dir\test-sub-dir\test-sub-dir-file.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StatisticalAnalysis\StatisticalAnalysis.csproj">
+      <Project>{f8899f53-586d-4692-b9e5-f13d4d3ede93}</Project>
+      <Name>StatisticalAnalysis</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
